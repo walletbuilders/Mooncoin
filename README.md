@@ -75,6 +75,5 @@ P2P 44664
 
 Windows Wallet: https://mega.nz/#!8E5yTarJ!9EJNAoSfhiBoS1VUirsHxPe9yr65DVrMDxJAws56nZ0
 
-VirusTotal: https://www.virustotal.com/nl/file/8c536896c05bbf1c3d819403fcd6386c9b4b129cbc03a42793645b9aadf858bf/analysis/1465326070/
-Checksum: 8c536896c05bbf1c3d819403fcd6386c9b4b129cbc03a42793645b9aadf858bf
+VirusTotal: https://www.virustotal.com/nl/file/8c536896c05bbf1c3d819403fcd6386c9b4b129cbc03a42793645b9aadf858bf
  
