@@ -19,7 +19,7 @@ AboutDialog::AboutDialog(QWidget *parent) :
     ui->setupUi(this);
 
     // Set current copyright year
-    ui->copyrightLabel->setText(tr("Copyright") + QString(" &copy; 2009-2013 ") + tr("The Bitcoin developers") + QString("<br>") + tr("Copyright") + QString(" &copy; ") + tr("2011-2013 The Litecoin developers") + QString("<br>") + tr("Copyright") + QString(" &copy; ") + tr("2013-%1 Team Mooncoin").arg(ABOUTDIALOG_COPYRIGHT_YEAR));
+    ui->copyrightLabel->setText(tr("Copyright") + QString(" &copy; 2009-2013 ") + tr("The Bitcoin developers") + QString("<br>") + tr("Copyright") + QString(" &copy; ") + tr("2011-2013 The Litecoin developers") + QString("<br>") + tr("Copyright") + QString(" &copy; ") + tr("2013-%1 Team Mooncoin").arg(ABOUTDIALOG_COPYRIGHT_YEAR) + QString("<br>") + tr("June, 2016. Compiled from https://github.com/walletbuilders/Mooncoin") + QString("<br>") + tr("based on https://github.com/mooncoin-project/mooncoin-landann ") + QString("<br>") + tr("by walletbuilders.com"));
 }
 
 void AboutDialog::setModel(ClientModel *model)

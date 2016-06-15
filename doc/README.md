@@ -32,7 +32,7 @@ Unpack the files into a directory and run:
 - bin/64/Mooncoin-qt (GUI, 64-bit)
 - bin/64/Mooncoind (headless, 64-bit)
 
-See the documentation at (http://mooncoin.info)
+See the documentation at (https://bitcointalk.org/index.php?topic=389403.987654321)
 for help and more information.
 
 

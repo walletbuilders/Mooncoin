@@ -1,12 +1,12 @@
 # Mooncoin [MOON]
-http://mooncoin.info/
+https://bitcointalk.org/index.php?topic=389403.987654321
 
 <!--| ![Mooncoin](http://bit.ly/moonlogo) |-->
 ![Mooncoin](https://raw.githubusercontent.com/gjhiggins/mooncoin/mooncoin/src/qt/res/icons/bitcoin.png)
 
 ## What is Mooncoin?
 Mooncoin is like Bitcoin, but based on Litecoin, and aimed to take you TO THE MOON!
-http://mooncoin.info/
+https://bitcointalk.org/index.php?topic=389403.987654321
 
 ## IRC
 irc.freenode.net Channel: #mooncoin
