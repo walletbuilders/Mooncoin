@@ -1,7 +1,15 @@
 # Mooncoin [MOON]
 https://bitcointalk.org/index.php?topic=389403.987654321
 
-Mooncoin 1.871.1.0 ![minkiz.co](http://minkiz.co/img/assets/minkiz.png) 
+Mooncoin 1.875.1
+
+(1) up-to-date nodes
+(2) checkpoints:
+( 150000, uint256("0xddd419a09a4332a8830cf0e91171ee511dfb31888f5ce852e111699026f0acc5"))
+( 300000, uint256("0x6e01c091825c580a5d8994d46015bf8bc8e2b8266fcae0f33f2ff88d01faa96c"))
+( 650000, uint256("0xb34318f04a9ba572487702bc83f6327af445f2b1faab43770742bc1b0a04a74b"))
+( 828932, uint256("0x41a17797c1b13a689cd16db003d31cf34e0d8b5ab24d90595f0794c453f7987e")) 
+(3) an original logo from https://github.com/mooncoin-project/mooncoin
 
 ## Frequently Asked Questions
 
