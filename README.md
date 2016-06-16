@@ -1,7 +1,8 @@
 # Mooncoin [MOON]
 https://bitcointalk.org/index.php?topic=389403.987654321
 
-Mooncoin 1.875.1
+Mooncoin 1.875.1 compiled from Mooncoin 1.871.1.0 minkiz.co
+https://github.com/mooncoin-project/mooncoin-landann
 
 (1) up-to-date nodes
 (2) checkpoints:
