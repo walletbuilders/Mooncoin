@@ -1,34 +1,7 @@
 # Mooncoin [MOON]
 https://bitcointalk.org/index.php?topic=389403.987654321
 
-<!--| ![Mooncoin](http://bit.ly/moonlogo) |-->
-![Mooncoin](https://raw.githubusercontent.com/gjhiggins/mooncoin/mooncoin/src/qt/res/icons/bitcoin.png)
-
-## What is Mooncoin?
-Mooncoin is like Bitcoin, but based on Litecoin, and aimed to take you TO THE MOON!
-https://bitcointalk.org/index.php?topic=389403.987654321
-
-## IRC
-irc.freenode.net Channel: #mooncoin
-
-## License
-Mooncoin is released under the terms of the MIT license. See [COPYING](COPYING)
-for more information or see http://opensource.org/licenses/MIT.
-
-## Development and Contributions
-Developers work in their own trees, then submit pull requests when they think
-their feature or bug fix is ready.
-
 Mooncoin 1.871.1.0 ![minkiz.co](http://minkiz.co/img/assets/minkiz.png) 
-
-### Linux wallet
-![Mooncoin](https://raw.githubusercontent.com/gjhiggins/mooncoin/mooncoin/src/qt/res/src/linux-wallet.png)
-
-### Windows wallet
-![Mooncoin](https://raw.githubusercontent.com/gjhiggins/mooncoin/mooncoin/src/qt/res/src/win-wallet.png)
-
-### Mac wallet
-![Mooncoin](https://raw.githubusercontent.com/gjhiggins/mooncoin/mooncoin/src/qt/res/src/mac-wallet.png)
 
 ## Frequently Asked Questions
 
@@ -73,7 +46,13 @@ P2P 44664
 
 ### Download Info
 
-Windows Wallet: https://mega.nz/#!8E5yTarJ!9EJNAoSfhiBoS1VUirsHxPe9yr65DVrMDxJAws56nZ0
+Windows Wallet: https://mega.nz/#!xFh3WCab!X9rPMt4ufUuO0Q_f7BQ_vN2EXoroxDilvXz87x01yYU
+VirusTotal: https://www.virustotal.com/en/file/67edd494da6daf322b97f73dfc3febf5f017af4f87f87f3fa7dfb80f272102f3/analysis/1466066504/
 
-VirusTotal: https://www.virustotal.com/nl/file/8c536896c05bbf1c3d819403fcd6386c9b4b129cbc03a42793645b9aadf858bf/analysis/1465326070/
+Windows Wallet No-UPNP: https://mega.nz/#!AVZAzLqS!Sv3valsoIrb4y91RWzyP3X17PusItd1rIoryqZZmPLU
+VirusTotal: https://www.virustotal.com/en/file/2e95065ba2f4ece6dd4696d25cb7205492d8858ccc7ccd61f6ff2a1df0f02772/analysis/1466061676/
+
+Linux Wallet: https://mega.nz/#!tRhTjZAR!IAtl8UV6OB0MOBRD2u_YLheOuR8aVSCpSWFBIssb-zg
+Linux Daemon: https://mega.nz/#!gI5FlAaR!5jm5oZHnp8bmYGmAUXKH5COVZ0fAkxAys-NSwU_Kzy0
  
+Mac OSX Wallet: https://mega.nz/#!1YwHQIRY!N7Zd2oWIJw1sNDt6bUt28SWyZmpWRBWnx-P7Nqv0sTA
