@@ -53,6 +53,17 @@ Windows Wallet No-UPNP: https://mega.nz/#!AVZAzLqS!Sv3valsoIrb4y91RWzyP3X17PusIt
 VirusTotal: https://www.virustotal.com/en/file/2e95065ba2f4ece6dd4696d25cb7205492d8858ccc7ccd61f6ff2a1df0f02772/analysis/1466061676/
 
 Linux Wallet: https://mega.nz/#!tRhTjZAR!IAtl8UV6OB0MOBRD2u_YLheOuR8aVSCpSWFBIssb-zg
+VirusTotal: https://www.virustotal.com/en/file/153bd27f4c5258f8d9297813c1dc1e02cc621e0824b404e16873556e50ecdb94/analysis/1466072010/
+
 Linux Daemon: https://mega.nz/#!gI5FlAaR!5jm5oZHnp8bmYGmAUXKH5COVZ0fAkxAys-NSwU_Kzy0
+Virustotal: https://www.virustotal.com/en/file/e4a8fb55d51ff847bb5002367ea2b74762e027cd803b3ffb587b13cbe57c4e7f/analysis/1466072423/
  
 Mac OSX Wallet: https://mega.nz/#!1YwHQIRY!N7Zd2oWIJw1sNDt6bUt28SWyZmpWRBWnx-P7Nqv0sTA
+VirusToal: https://www.virustotal.com/en/file/730322d86432a4607073df633c35ee888a6ed946c507599122e1419818429292/analysis/1466071879/
+
+Note: The Windows wallets give a false-positive regarding a bitcoin miner.
+More information about false-postive virus alerts can be found on: http://www.techsupportalert.com/content/what-false-positive-antivirus-detection.htm
+
+### About WalletBuilders
+
+We create custom altcoins and offer compiling services for the crypto community.
